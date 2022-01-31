@@ -1,9 +1,9 @@
 <?php
 /*
-    @name remove-trojan-js
+    @Name remove-trojan-js
     @Description limpiar el código malicioso de los JS. Disclaimer: ejecutar bajo tu responsabilidad. Siempre realizar una prueba en ambiente controlado (sandbox/desarrollo), antes de aplicarlo a producción.
-    @author G. Mizael Mtz Hdz
-    @link https://gmizaelmtzhdz.com/
+    @Author G. Mizael Mtz Hdz
+    @Link https://gmizaelmtzhdz.com/
 */
 ini_set('display_errors', 1);
 ini_set('display_startup_errors', 1);
