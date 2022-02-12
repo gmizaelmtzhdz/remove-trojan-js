@@ -6,7 +6,7 @@
 ```
 Si es así sigue estos pasos para limpiarlos: 
 * Sube el archivo (remove-trojan-js.php) al servidor
-* Cambiar la ruta absoluta desde donde se empezará la limpieza (línea 28 del archivo remove-trojan-js.php)
+* Cambiar la ruta absoluta desde donde se empezará la limpieza (clean_files('/absolute/path/'); del archivo remove-trojan-js.php)
 * Ejecutar el script vía web (https://dominio.com/remove-trojan-js.php) o por la terminal (php remove-trojan-js.php)
 
 
